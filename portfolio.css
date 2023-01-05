@@ -76,7 +76,6 @@ main {
   text-align: center;
 }
 .section-title {
-  
   font-family: "Open Sans";
   font-style: normal;
   margin-bottom: 30px;
@@ -88,4 +87,20 @@ main {
   color: #757575;
   font-size: 18px;
   margin-bottom: 30px;
+}
+.about-info-container {
+  display: flex;
+  justify-content: space-around;
+  text-align: center;
+}
+.info-title {
+}
+.about .info-title {
+  font-size: 20px;
+  color: #757575;
+}
+.info-decsription {
+  font-weight: 700;
+  font-size: 20px;
+  color: #474747;
 }
